@@ -1,0 +1,529 @@
+<SEC-DOCUMENT>0001104659-24-023662.txt : 20240214
+<SEC-HEADER>0001104659-24-023662.hdr.sgml : 20240214
+<ACCEPTANCE-DATETIME>20240214161533
+ACCESSION NUMBER:		0001104659-24-023662
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20231231
+FILED AS OF DATE:		20240214
+DATE AS OF CHANGE:		20240214
+EFFECTIVENESS DATE:		20240214
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BILL & MELINDA GATES FOUNDATION TRUST
+		CENTRAL INDEX KEY:			0001166559
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				911663695
+		STATE OF INCORPORATION:			WA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-10098
+		FILM NUMBER:		24638411
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2365 CARILLON POINT
+		CITY:			KIRKLAND
+		STATE:			WA
+		ZIP:			98033
+		BUSINESS PHONE:		4258897900
+
+	MAIL ADDRESS:	
+		STREET 1:		2365 CARILLON POINT
+		CITY:			KIRKLAND
+		STATE:			WA
+		ZIP:			98033
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	GATES BILL & MELINDA FOUNDATION
+		DATE OF NAME CHANGE:	20020205
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?>
+<edgarSubmission xsi:schemaLocation="http://www.sec.gov/edgar/thirteenffiler eis_13F_Filer.xsd" xmlns="http://www.sec.gov/edgar/thirteenffiler" xmlns:ns1="http://www.sec.gov/edgar/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <schemaVersion>X0202</schemaVersion>
+  <headerData>
+    <submissionType>13F-HR</submissionType>
+    <filerInfo>
+      <liveTestFlag>LIVE</liveTestFlag>
+      <flags>
+        <confirmingCopyFlag>false</confirmingCopyFlag>
+        <returnCopyFlag>false</returnCopyFlag>
+        <overrideInternetFlag>false</overrideInternetFlag>
+      </flags>
+      <filer>
+        <credentials>
+          <cik>0001166559</cik>
+          <ccc>XXXXXXXX</ccc>
+        </credentials>
+      </filer>
+      <periodOfReport>12-31-2023</periodOfReport>
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPage>
+      <reportCalendarOrQuarter>12-31-2023</reportCalendarOrQuarter>
+      <isAmendment>false</isAmendment>
+      <filingManager>
+        <name>BILL &amp; MELINDA GATES FOUNDATION TRUST</name>
+        <address>
+          <ns1:street1>2365 Carillon Point</ns1:street1>
+          <ns1:city>Kirkland</ns1:city>
+          <ns1:stateOrCountry>WA</ns1:stateOrCountry>
+          <ns1:zipCode>98033</ns1:zipCode>
+        </address>
+      </filingManager>
+      <reportType>13F HOLDINGS REPORT</reportType>
+      <form13FFileNumber>028-10098</form13FFileNumber>
+      <secFileNumber>028-10098</secFileNumber>
+      <provideInfoForInstruction5>N</provideInfoForInstruction5>
+    </coverPage>
+    <signatureBlock>
+      <name>Michael Larson</name>
+      <title>Authorized Agent</title>
+      <phone>425-889-7900</phone>
+      <signature>/s/ Michael Larson</signature>
+      <city>Kirkland</city>
+      <stateOrCountry>WA</stateOrCountry>
+      <signatureDate>02-14-2024</signatureDate>
+    </signatureBlock>
+    <summaryPage>
+      <otherIncludedManagersCount>0</otherIncludedManagersCount>
+      <tableEntryTotal>24</tableEntryTotal>
+      <tableValueTotal>42283338859</tableValueTotal>
+    </summaryPage>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>INFORMATION TABLE
+<SEQUENCE>2
+<FILENAME>infotable.xml
+<TEXT>
+<XML>
+<?xml version="1.0" ?>
+<informationTable xsi:schemaLocation="http://www.sec.gov/edgar/document/thirteenf/informationtable eis_13FDocument.xsd" xmlns="http://www.sec.gov/edgar/document/thirteenf/informationtable" xmlns:n1="http://www.sec.gov/edgar/document/thirteenf/informationtable" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <infoTable>
+    <nameOfIssuer>ANHEUSER BUSCH INBEV SA/NV</nameOfIssuer>
+    <titleOfClass>SPONSORED ADR</titleOfClass>
+    <cusip>03524A108</cusip>
+    <figi>BBG000RYC984</figi>
+    <value>110047860</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>1703000</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>1703000</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>BERKSHIRE HATHAWAY INC DEL</nameOfIssuer>
+    <titleOfClass>CL B NEW</titleOfClass>
+    <cusip>084670702</cusip>
+    <figi>BBG000DWG505</figi>
+    <value>7103365034</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>19916349</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>19916349</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>CANADIAN NATL RY CO</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>136375102</cusip>
+    <figi>BBG000HS74G6</figi>
+    <value>6887889125</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>54826786</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>54826786</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>CARVANA CO</nameOfIssuer>
+    <titleOfClass>CL A</titleOfClass>
+    <cusip>146869102</cusip>
+    <figi>BBG00GCTWDJ3</figi>
+    <value>27528800</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>520000</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>520000</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>CATERPILLAR INC</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>149123101</cusip>
+    <figi>BBG000BF0K17</figi>
+    <value>2174243051</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>7353614</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>7353614</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>COCA-COLA FEMSA SAB DE CV</nameOfIssuer>
+    <titleOfClass>SPONSORD ADR REP</titleOfClass>
+    <cusip>191241108</cusip>
+    <figi>BBG000BJ87V7</figi>
+    <value>588161006</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>6214719</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>6214719</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>COUPANG INC</nameOfIssuer>
+    <titleOfClass>CL A</titleOfClass>
+    <cusip>22266T109</cusip>
+    <figi>BBG00XMJRPQ8</figi>
+    <value>149725849</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>9248045</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>9248045</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>CROWN CASTLE INC</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>22822V101</cusip>
+    <figi>BBG000FV1Z23</figi>
+    <value>163578094</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>1420072</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>1420072</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>DANAHER CORPORATION</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>235851102</cusip>
+    <figi>BBG000BH3JF8</figi>
+    <value>86289820</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>373000</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>373000</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>DEERE &amp; CO</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>244199105</cusip>
+    <figi>BBG000BH1NH9</figi>
+    <value>1422488741</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>3557378</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>3557378</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>ECOLAB INC</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>278865100</cusip>
+    <figi>BBG000BHKYH4</figi>
+    <value>1034999027</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>5218044</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>5218044</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>FEDEX CORP</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>31428X106</cusip>
+    <figi>BBG000BJF1Z8</figi>
+    <value>388147555</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>1534362</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>1534362</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>HORMEL FOODS CORP</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>440452100</cusip>
+    <figi>BBG000BLF8D2</figi>
+    <value>70490762</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>2195290</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>2195290</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>KRAFT HEINZ CO</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>500754106</cusip>
+    <figi>BBG005CPNTQ2</figi>
+    <value>96983748</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>2622600</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>2622600</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>MADISON SQUARE GRDN SPRT COR</nameOfIssuer>
+    <titleOfClass>CL A</titleOfClass>
+    <cusip>55825T103</cusip>
+    <figi>BBG007FG0C23</figi>
+    <value>107717183</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>592406</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>592406</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>MICROSOFT CORP</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>594918104</cusip>
+    <figi>BBG000BPH459</figi>
+    <value>14368815179</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>38210869</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>38210869</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>ON HLDG AG</nameOfIssuer>
+    <titleOfClass>NAMEN AKT A</titleOfClass>
+    <cusip>H5919C104</cusip>
+    <figi>BBG00LQK89F6</figi>
+    <value>13485000</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>500000</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>500000</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>SCHRODINGER INC</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>80810D103</cusip>
+    <figi>BBG000T88BN2</figi>
+    <value>249943571</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>6981664</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>6981664</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>UNITED PARCEL SERVICE INC</nameOfIssuer>
+    <titleOfClass>CL B</titleOfClass>
+    <cusip>911312106</cusip>
+    <figi>BBG000L9CV04</figi>
+    <value>118722643</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>755089</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>755089</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>VERALTO CORP</nameOfIssuer>
+    <titleOfClass>COM SHS</titleOfClass>
+    <cusip>92338C103</cusip>
+    <figi>BBG019Q32XJ9</figi>
+    <value>10227633</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>124333</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>124333</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>VROOM INC</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>92918V109</cusip>
+    <figi>BBG009NGKQ45</figi>
+    <value>1506250</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>2500000</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>2500000</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>WALMART INC</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>931142103</cusip>
+    <figi>BBG000BWXBC2</figi>
+    <value>477704566</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>3030159</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>3030159</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>WASTE CONNECTIONS INC</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>94106B101</cusip>
+    <figi>BBG000FLHZZ2</figi>
+    <value>320807352</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>2149175</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>2149175</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>WASTE MGMT INC DEL</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>94106L109</cusip>
+    <figi>BBG000BWVSR1</figi>
+    <value>6310471010</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>35234344</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>35234344</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+</informationTable>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

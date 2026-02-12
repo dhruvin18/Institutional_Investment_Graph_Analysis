@@ -1,0 +1,656 @@
+,entity_id,node_type,node_id,cluster
+0,MMM,company,0,2
+1,AOS,company,1,2
+2,ABT,company,2,0
+3,ABBV,company,3,0
+4,ACN,company,4,0
+5,ADBE,company,5,0
+6,AMD,company,6,0
+7,AES,company,7,2
+8,AFL,company,8,2
+9,A,company,9,2
+10,APD,company,10,2
+11,ABNB,company,11,0
+12,AKAM,company,12,2
+13,ALB,company,13,2
+14,ARE,company,14,2
+15,ALGN,company,15,0
+16,ALLE,company,16,0
+17,LNT,company,17,2
+18,ALL,company,18,0
+19,GOOGL,company,19,0
+20,GOOG,company,20,0
+21,MO,company,21,0
+22,AMZN,company,22,0
+23,AMCR,company,23,2
+24,AEE,company,24,2
+25,AEP,company,25,2
+26,AXP,company,26,0
+27,AIG,company,27,0
+28,AMT,company,28,0
+29,AWK,company,29,2
+30,AMP,company,30,0
+31,AME,company,31,0
+32,AMGN,company,32,2
+33,APH,company,33,2
+34,ADI,company,34,2
+35,ANSS,company,35,2
+36,AON,company,36,0
+37,APA,company,37,0
+38,APO,company,38,0
+39,AAPL,company,39,0
+40,AMAT,company,40,0
+41,APTV,company,41,2
+42,ACGL,company,42,0
+43,ADM,company,43,2
+44,ANET,company,44,2
+45,AJG,company,45,2
+46,AIZ,company,46,0
+47,T,company,47,0
+48,ATO,company,48,2
+49,ADSK,company,49,2
+50,ADP,company,50,2
+51,AZO,company,51,0
+52,AVB,company,52,2
+53,AVY,company,53,2
+54,AXON,company,54,2
+55,BKR,company,55,0
+56,BALL,company,56,2
+57,BAC,company,57,2
+58,BAX,company,58,0
+59,BDX,company,59,0
+60,BRK-B,company,60,2
+61,BBY,company,61,2
+62,TECH,company,62,2
+63,BIIB,company,63,2
+64,BLK,company,64,2
+65,BX,company,65,0
+66,BK,company,66,0
+67,BA,company,67,2
+68,BKNG,company,68,0
+69,BSX,company,69,0
+70,BMY,company,70,0
+71,AVGO,company,71,0
+72,BR,company,72,2
+73,BRO,company,73,2
+74,BF-B,company,74,0
+75,BLDR,company,75,0
+76,BG,company,76,0
+77,BXP,company,77,2
+78,CHRW,company,78,2
+79,CDNS,company,79,2
+80,CZR,company,80,2
+81,CPT,company,81,0
+82,CPB,company,82,0
+83,COF,company,83,0
+84,CAH,company,84,0
+85,KMX,company,85,2
+86,CCL,company,86,0
+87,CARR,company,87,0
+88,CAT,company,88,2
+89,CBOE,company,89,2
+90,CBRE,company,90,2
+91,CDW,company,91,2
+92,COR,company,92,0
+93,CNC,company,93,0
+94,CNP,company,94,2
+95,CF,company,95,2
+96,CRL,company,96,2
+97,SCHW,company,97,0
+98,CHTR,company,98,0
+99,CVX,company,99,0
+100,CMG,company,100,0
+101,CB,company,101,0
+102,CHD,company,102,0
+103,CI,company,103,0
+104,CINF,company,104,2
+105,CTAS,company,105,0
+106,CSCO,company,106,0
+107,C,company,107,0
+108,CFG,company,108,0
+109,CLX,company,109,0
+110,CME,company,110,2
+111,CMS,company,111,2
+112,KO,company,112,0
+113,CTSH,company,113,0
+114,COIN,company,114,0
+115,CL,company,115,0
+116,CMCSA,company,116,0
+117,CAG,company,117,0
+118,COP,company,118,0
+119,ED,company,119,2
+120,STZ,company,120,0
+121,CEG,company,121,2
+122,COO,company,122,0
+123,CPRT,company,123,2
+124,GLW,company,124,2
+125,CPAY,company,125,0
+126,CTVA,company,126,0
+127,CSGP,company,127,0
+128,COST,company,128,0
+129,CTRA,company,129,0
+130,CRWD,company,130,2
+131,CCI,company,131,2
+132,CSX,company,132,0
+133,CMI,company,133,2
+134,CVS,company,134,0
+135,DHR,company,135,2
+136,DRI,company,136,0
+137,DVA,company,137,0
+138,DAY,company,138,2
+139,DECK,company,139,0
+140,DE,company,140,2
+141,DELL,company,141,2
+142,DAL,company,142,0
+143,DVN,company,143,0
+144,DXCM,company,144,0
+145,FANG,company,145,0
+146,DLR,company,146,0
+147,DG,company,147,0
+148,DLTR,company,148,0
+149,D,company,149,2
+150,DPZ,company,150,2
+151,DASH,company,151,2
+152,DOV,company,152,0
+153,DOW,company,153,2
+154,DHI,company,154,0
+155,DTE,company,155,2
+156,DUK,company,156,2
+157,DD,company,157,0
+158,EMN,company,158,0
+159,ETN,company,159,2
+160,EBAY,company,160,0
+161,ECL,company,161,2
+162,EIX,company,162,2
+163,EW,company,163,0
+164,EA,company,164,2
+165,ELV,company,165,0
+166,EMR,company,166,2
+167,ENPH,company,167,2
+168,ETR,company,168,2
+169,EOG,company,169,0
+170,EPAM,company,170,2
+171,EQT,company,171,2
+172,EFX,company,172,2
+173,EQIX,company,173,0
+174,EQR,company,174,2
+175,ERIE,company,175,2
+176,ESS,company,176,2
+177,EL,company,177,0
+178,EG,company,178,2
+179,EVRG,company,179,2
+180,ES,company,180,2
+181,EXC,company,181,2
+182,EXE,company,182,0
+183,EXPE,company,183,0
+184,EXPD,company,184,0
+185,EXR,company,185,2
+186,XOM,company,186,0
+187,FFIV,company,187,0
+188,FDS,company,188,2
+189,FICO,company,189,2
+190,FAST,company,190,2
+191,FRT,company,191,2
+192,FDX,company,192,0
+193,FIS,company,193,0
+194,FITB,company,194,2
+195,FSLR,company,195,0
+196,FE,company,196,0
+197,FI,company,197,0
+198,F,company,198,2
+199,FTNT,company,199,0
+200,FTV,company,200,2
+201,FOXA,company,201,0
+202,FOX,company,202,0
+203,BEN,company,203,2
+204,FCX,company,204,2
+205,GRMN,company,205,2
+206,IT,company,206,0
+207,GE,company,207,2
+208,GEHC,company,208,2
+209,GEV,company,209,2
+210,GEN,company,210,0
+211,GNRC,company,211,2
+212,GD,company,212,0
+213,GIS,company,213,0
+214,GM,company,214,2
+215,GPC,company,215,2
+216,GILD,company,216,0
+217,GPN,company,217,0
+218,GL,company,218,0
+219,GDDY,company,219,0
+220,GS,company,220,0
+221,HAL,company,221,2
+222,HIG,company,222,0
+223,HAS,company,223,2
+224,HCA,company,224,0
+225,DOC,company,225,2
+226,HSIC,company,226,0
+227,HSY,company,227,0
+228,HES,company,228,2
+229,HPE,company,229,0
+230,HLT,company,230,2
+231,HOLX,company,231,0
+232,HD,company,232,2
+233,HON,company,233,0
+234,HRL,company,234,0
+235,HST,company,235,0
+236,HWM,company,236,2
+237,HPQ,company,237,0
+238,HUBB,company,238,0
+239,HUM,company,239,2
+240,HBAN,company,240,0
+241,HII,company,241,0
+242,IBM,company,242,2
+243,IEX,company,243,2
+244,IDXX,company,244,0
+245,ITW,company,245,0
+246,INCY,company,246,0
+247,IR,company,247,2
+248,PODD,company,248,0
+249,INTC,company,249,2
+250,ICE,company,250,2
+251,IFF,company,251,2
+252,IP,company,252,2
+253,IPG,company,253,0
+254,INTU,company,254,2
+255,ISRG,company,255,0
+256,IVZ,company,256,0
+257,INVH,company,257,2
+258,IQV,company,258,2
+259,IRM,company,259,2
+260,JBHT,company,260,0
+261,JBL,company,261,2
+262,JKHY,company,262,0
+263,J,company,263,2
+264,JNJ,company,264,0
+265,JCI,company,265,0
+266,JPM,company,266,0
+267,JNPR,company,267,2
+268,K,company,268,0
+269,KVUE,company,269,0
+270,KDP,company,270,0
+271,KEY,company,271,2
+272,KEYS,company,272,2
+273,KMB,company,273,0
+274,KIM,company,274,2
+275,KMI,company,275,2
+276,KKR,company,276,0
+277,KLAC,company,277,0
+278,KHC,company,278,0
+279,KR,company,279,0
+280,LHX,company,280,2
+281,LH,company,281,2
+282,LRCX,company,282,2
+283,LW,company,283,0
+284,LVS,company,284,2
+285,LDOS,company,285,0
+286,LEN,company,286,0
+287,LII,company,287,0
+288,LLY,company,288,0
+289,LIN,company,289,2
+290,LYV,company,290,2
+291,LKQ,company,291,0
+292,LMT,company,292,2
+293,L,company,293,2
+294,LOW,company,294,2
+295,LULU,company,295,2
+296,LYB,company,296,2
+297,MTB,company,297,0
+298,MPC,company,298,2
+299,MKTX,company,299,2
+300,MAR,company,300,2
+301,MMC,company,301,2
+302,MLM,company,302,2
+303,MAS,company,303,2
+304,MA,company,304,0
+305,MTCH,company,305,0
+306,MKC,company,306,0
+307,MCD,company,307,0
+308,MCK,company,308,0
+309,MDT,company,309,0
+310,MRK,company,310,0
+311,META,company,311,0
+312,MET,company,312,0
+313,MTD,company,313,2
+314,MGM,company,314,2
+315,MCHP,company,315,2
+316,MU,company,316,2
+317,MSFT,company,317,0
+318,MAA,company,318,2
+319,MRNA,company,319,2
+320,MHK,company,320,0
+321,MOH,company,321,0
+322,TAP,company,322,0
+323,MDLZ,company,323,0
+324,MPWR,company,324,0
+325,MNST,company,325,0
+326,MCO,company,326,0
+327,MS,company,327,2
+328,MOS,company,328,2
+329,MSI,company,329,2
+330,MSCI,company,330,0
+331,NDAQ,company,331,2
+332,NTAP,company,332,0
+333,NFLX,company,333,0
+334,NEM,company,334,0
+335,NWSA,company,335,2
+336,NWS,company,336,2
+337,NEE,company,337,2
+338,NKE,company,338,2
+339,NI,company,339,2
+340,NDSN,company,340,0
+341,NSC,company,341,2
+342,NTRS,company,342,2
+343,NOC,company,343,2
+344,NCLH,company,344,2
+345,NRG,company,345,0
+346,NUE,company,346,0
+347,NVDA,company,347,0
+348,NVR,company,348,0
+349,NXPI,company,349,0
+350,ORLY,company,350,2
+351,OXY,company,351,2
+352,ODFL,company,352,2
+353,OMC,company,353,0
+354,ON,company,354,2
+355,OKE,company,355,2
+356,ORCL,company,356,0
+357,OTIS,company,357,2
+358,PCAR,company,358,2
+359,PKG,company,359,2
+360,PLTR,company,360,2
+361,PANW,company,361,0
+362,PARA,company,362,0
+363,PH,company,363,2
+364,PAYX,company,364,2
+365,PAYC,company,365,0
+366,PYPL,company,366,0
+367,PNR,company,367,2
+368,PEP,company,368,0
+369,PFE,company,369,0
+370,PCG,company,370,0
+371,PM,company,371,0
+372,PSX,company,372,2
+373,PNW,company,373,0
+374,PNC,company,374,2
+375,POOL,company,375,2
+376,PPG,company,376,2
+377,PPL,company,377,0
+378,PFG,company,378,0
+379,PG,company,379,0
+380,PGR,company,380,2
+381,PLD,company,381,0
+382,PRU,company,382,0
+383,PEG,company,383,2
+384,PTC,company,384,2
+385,PSA,company,385,2
+386,PHM,company,386,0
+387,PWR,company,387,2
+388,QCOM,company,388,0
+389,DGX,company,389,0
+390,RL,company,390,0
+391,RJF,company,391,0
+392,RTX,company,392,2
+393,O,company,393,0
+394,REG,company,394,2
+395,REGN,company,395,0
+396,RF,company,396,0
+397,RSG,company,397,2
+398,RMD,company,398,0
+399,RVTY,company,399,2
+400,ROK,company,400,0
+401,ROL,company,401,2
+402,ROP,company,402,2
+403,ROST,company,403,2
+404,RCL,company,404,0
+405,SPGI,company,405,0
+406,CRM,company,406,0
+407,SBAC,company,407,2
+408,SLB,company,408,0
+409,STX,company,409,2
+410,SRE,company,410,2
+411,NOW,company,411,0
+412,SHW,company,412,2
+413,SPG,company,413,0
+414,SWKS,company,414,2
+415,SJM,company,415,0
+416,SW,company,416,2
+417,SNA,company,417,0
+418,SOLV,company,418,0
+419,SO,company,419,2
+420,LUV,company,420,0
+421,SWK,company,421,2
+422,SBUX,company,422,0
+423,STT,company,423,0
+424,STLD,company,424,0
+425,STE,company,425,0
+426,SYK,company,426,0
+427,SMCI,company,427,0
+428,SYF,company,428,0
+429,SNPS,company,429,0
+430,SYY,company,430,0
+431,TMUS,company,431,0
+432,TROW,company,432,2
+433,TTWO,company,433,2
+434,TPR,company,434,0
+435,TRGP,company,435,0
+436,TGT,company,436,0
+437,TEL,company,437,0
+438,TDY,company,438,2
+439,TER,company,439,2
+440,TSLA,company,440,0
+441,TXN,company,441,2
+442,TPL,company,442,0
+443,TXT,company,443,0
+444,TMO,company,444,2
+445,TJX,company,445,2
+446,TKO,company,446,0
+447,TSCO,company,447,2
+448,TT,company,448,0
+449,TDG,company,449,2
+450,TRV,company,450,0
+451,TRMB,company,451,0
+452,TFC,company,452,2
+453,TYL,company,453,2
+454,TSN,company,454,0
+455,USB,company,455,0
+456,UBER,company,456,0
+457,UDR,company,457,2
+458,ULTA,company,458,2
+459,UNP,company,459,0
+460,UAL,company,460,0
+461,UPS,company,461,2
+462,URI,company,462,2
+463,UNH,company,463,2
+464,UHS,company,464,0
+465,VLO,company,465,2
+466,VTR,company,466,0
+467,VLTO,company,467,2
+468,VRSN,company,468,0
+469,VRSK,company,469,0
+470,VZ,company,470,0
+471,VRTX,company,471,2
+472,VTRS,company,472,0
+473,VICI,company,473,2
+474,V,company,474,0
+475,VST,company,475,0
+476,VMC,company,476,2
+477,WRB,company,477,0
+478,GWW,company,478,0
+479,WAB,company,479,0
+480,WBA,company,480,2
+481,WMT,company,481,0
+482,DIS,company,482,2
+483,WBD,company,483,2
+484,WM,company,484,2
+485,WAT,company,485,2
+486,WEC,company,486,2
+487,WFC,company,487,0
+488,WELL,company,488,2
+489,WST,company,489,2
+490,WDC,company,490,2
+491,WY,company,491,0
+492,WSM,company,492,0
+493,WMB,company,493,2
+494,WTW,company,494,0
+495,WDAY,company,495,0
+496,WYNN,company,496,2
+497,XEL,company,497,2
+498,XYL,company,498,0
+499,YUM,company,499,2
+500,ZBRA,company,500,2
+501,ZBH,company,501,0
+502,ZTS,company,502,0
+503,0000093751,fund,503,1
+504,0000315066,fund,504,1
+505,0000886982,fund,505,3
+506,0000914208,fund,506,2
+507,0001029160,fund,507,3
+508,0001037389,fund,508,0
+509,0001061768,fund,509,3
+510,0001067983,fund,510,0
+511,0001079114,fund,511,3
+512,0001103804,fund,512,3
+513,0001166559,fund,513,2
+514,0001350694,fund,514,0
+515,0001423053,fund,515,1
+516,Industrials,sector,516,1
+517,Healthcare,sector,517,1
+518,Technology,sector,518,1
+519,Utilities,sector,519,2
+520,Financial Services,sector,520,1
+521,Basic Materials,sector,521,2
+522,Consumer Cyclical,sector,522,1
+523,Real Estate,sector,523,2
+524,Communication Services,sector,524,0
+525,Consumer Defensive,sector,525,0
+526,Energy,sector,526,4
+527,Conglomerates,industry,527,4
+528,Specialty Industrial Machinery,industry,528,2
+529,Medical Devices,industry,529,4
+530,Drug Manufacturers - General,industry,530,4
+531,Information Technology Services,industry,531,0
+532,Software - Application,industry,532,2
+533,Semiconductors,industry,533,2
+534,Utilities - Diversified,industry,534,3
+535,Insurance - Life,industry,535,4
+536,Diagnostics & Research,industry,536,2
+537,Specialty Chemicals,industry,537,2
+538,Travel Services,industry,538,4
+539,Software - Infrastructure,industry,539,0
+540,REIT - Office,industry,540,3
+541,Medical Instruments & Supplies,industry,541,4
+542,Security & Protection Services,industry,542,4
+543,Utilities - Regulated Electric,industry,543,1
+544,Insurance - Property & Casualty,industry,544,4
+545,Internet Content & Information,industry,545,3
+546,Tobacco,industry,546,4
+547,Internet Retail,industry,547,4
+548,Packaging & Containers,industry,548,3
+549,Credit Services,industry,549,4
+550,Insurance - Diversified,industry,550,4
+551,REIT - Specialty,industry,551,4
+552,Utilities - Regulated Water,industry,552,3
+553,Asset Management,industry,553,0
+554,Electronic Components,industry,554,3
+555,Insurance Brokers,industry,555,4
+556,Oil & Gas E&P,industry,556,4
+557,Consumer Electronics,industry,557,0
+558,Semiconductor Equipment & Materials,industry,558,3
+559,Auto Parts,industry,559,4
+560,Farm Products,industry,560,4
+561,Computer Hardware,industry,561,3
+562,Telecom Services,industry,562,4
+563,Utilities - Regulated Gas,industry,563,3
+564,REIT - Residential,industry,564,2
+565,Aerospace & Defense,industry,565,2
+566,Oil & Gas Equipment & Services,industry,566,4
+567,Banks - Diversified,industry,567,4
+568,Specialty Retail,industry,568,3
+569,Biotechnology,industry,569,4
+570,Beverages - Wineries & Distilleries,industry,570,3
+571,Building Products & Equipment,industry,571,4
+572,Integrated Freight & Logistics,industry,572,4
+573,Resorts & Casinos,industry,573,3
+574,Packaged Foods,industry,574,4
+575,Medical Distribution,industry,575,4
+576,Auto & Truck Dealerships,industry,576,3
+577,Farm & Heavy Construction Machinery,industry,577,3
+578,Financial Data & Stock Exchanges,industry,578,2
+579,Real Estate Services,industry,579,4
+580,Healthcare Plans,industry,580,4
+581,Agricultural Inputs,industry,581,3
+582,Capital Markets,industry,582,2
+583,Oil & Gas Integrated,industry,583,4
+584,Restaurants,industry,584,4
+585,Household & Personal Products,industry,585,0
+586,Specialty Business Services,industry,586,4
+587,Communication Equipment,industry,587,4
+588,Banks - Regional,industry,588,4
+589,Beverages - Non-Alcoholic,industry,589,4
+590,Beverages - Brewers,industry,590,4
+591,Utilities - Renewable,industry,591,3
+592,Discount Stores,industry,592,4
+593,Railroads,industry,593,4
+594,Medical Care Facilities,industry,594,4
+595,Footwear & Accessories,industry,595,3
+596,Airlines,industry,596,4
+597,Chemicals,industry,597,3
+598,Residential Construction,industry,598,4
+599,Electronic Gaming & Multimedia,industry,599,3
+600,Solar,industry,600,3
+601,Consulting Services,industry,601,4
+602,Insurance - Reinsurance,industry,602,3
+603,REIT - Industrial,industry,603,4
+604,Industrial Distribution,industry,604,3
+605,REIT - Retail,industry,605,2
+606,Auto Manufacturers,industry,606,3
+607,Scientific & Technical Instruments,industry,607,3
+608,Entertainment,industry,608,2
+609,Copper,industry,609,3
+610,Health Information Services,industry,610,3
+611,Leisure,industry,611,3
+612,REIT - Healthcare Facilities,industry,612,3
+613,Confectioners,industry,613,4
+614,Lodging,industry,614,3
+615,Home Improvement Retail,industry,615,3
+616,REIT - Hotel & Motel,industry,616,4
+617,Electrical Equipment & Parts,industry,617,3
+618,Advertising Agencies,industry,618,4
+619,Engineering & Construction,industry,619,3
+620,Oil & Gas Midstream,industry,620,4
+621,Grocery Stores,industry,621,4
+622,Apparel Retail,industry,622,2
+623,Oil & Gas Refining & Marketing,industry,623,3
+624,Building Materials,industry,624,3
+625,"Furnishings, Fixtures & Appliances",industry,625,4
+626,Gold,industry,626,4
+627,Utilities - Independent Power Producers,industry,627,4
+628,Steel,industry,628,3
+629,Trucking,industry,629,3
+630,Apparel Manufacturing,industry,630,4
+631,Waste Management,industry,631,3
+632,Personal Services,industry,632,3
+633,Tools & Accessories,industry,633,3
+634,Food Distribution,industry,634,4
+635,Luxury Goods,industry,635,4
+636,Rental & Leasing Services,industry,636,3
+637,Pollution & Treatment Controls,industry,637,3
+638,Drug Manufacturers - Specialty & Generic,industry,638,4
+639,REIT - Diversified,industry,639,3
+640,Pharmaceutical Retailers,industry,640,3
+641,United States,country,641,1
+642,Ireland,country,642,4
+643,Switzerland,country,643,3
+644,Bermuda,country,644,3
+645,United Kingdom,country,645,3
+646,Canada,country,646,3
+647,Netherlands,country,647,4
+648,Singapore,country,648,3
+649,LargeCap,marketcap_bucket,649,1
+650,SmallCap,marketcap_bucket,650,1
+651,MidCap,marketcap_bucket,651,1
+652,LargeTeam,employee_bucket,652,1
+653,SmallTeam,employee_bucket,653,1
+654,MidTeam,employee_bucket,654,1

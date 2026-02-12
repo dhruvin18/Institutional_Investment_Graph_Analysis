@@ -1,0 +1,17 @@
+# Virtual environment
+sec13f_env/
+
+# Mac
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data files (optional)
+*.csv
+*.parquet
+
