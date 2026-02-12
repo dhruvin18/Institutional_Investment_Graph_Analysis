@@ -1,89 +1,100 @@
-# Temporal Investment Graph with GNN 🚀📍
-**Turn raw SEC filings into graph intelligence that reveals how institutional capital flows across companies and sectors over time**
+# Institutional Investment Graph Analysis 📊📍  
+**Temporal Knowledge Graph + Graph Neural Networks to uncover institutional capital flow patterns in S&P 500 companies**
 
-> Based on the system design and methods described in the project report :contentReference[oaicite:0]{index=0}
+---
 
 ## 🧩 Problem Statement
-- SEC 13F filings are information-heavy, cryptic, and extremely difficult to analyze at scale
-- Institutional investment patterns are scattered across thousands of quarterly filings
-- Traditional competitor analysis ignores how capital *actually* moves across industries
-- Consultants and analysts lack a way to visualize sector rotation and fund behavior over time
-- Static dashboards cannot represent temporal relationships between funds and companies
-- What’s missing is a **temporal graph intelligence system** that can power **strategic investment and competitive decisions** before **market shifts happen**.
+
+Institutional investment trends are buried inside complex SEC 13F filings and static financial datasets.
+
+- SEC filings are information-heavy and difficult to interpret  
+- Institutional capital flow patterns are not easily visualized  
+- Traditional competitive analysis misses nonlinear investment relationships  
+- Sector rotation and fund concentration shifts are hard to detect over time  
+- Static dashboards fail to capture temporal structural changes  
+
+**What’s missing is a temporal investment knowledge graph system that can power institutional capital flow insights before strategic market shifts occur.**
+
+---
 
 ## ⚙️ What This Project Does
-Builds a temporal knowledge graph from SEC filings and applies Graph Neural Networks to learn investment behavior patterns.
 
-- Downloads and parses SEC EDGAR 13F filings for institutional holdings
-- Merges Yahoo Finance company metadata (sector, industry, indicators)
-- Constructs a **temporal knowledge graph** with companies, sectors, and funds as nodes
-- Models **static edges** (sector/industry) and **dynamic edges** (quarterly fund investments)
-- Applies **GAT / GATv2 Graph Neural Networks** to learn node embeddings
-- Uses K-Means + silhouette scoring to discover clusters of similar investment behavior
-- Detects sector rotation, fund concentration, and capital flow trends
-- Visualizes evolving relationships through an animated graph interface
+This project builds a **temporal knowledge graph + Graph Neural Network pipeline** to analyze institutional investment behavior across S&P 500 companies.
+
+- Collects institutional holdings data from SEC EDGAR (13F filings)  
+- Integrates historical financial data from Yahoo Finance  
+- Cleans and aligns data across quarterly time windows  
+- Constructs a temporal knowledge graph with static & dynamic edges  
+- Models fund-to-company relationships across time  
+- Applies Graph Attention Networks (GAT / GATv2) for embedding learning  
+- Uses unsupervised clustering (K-Means) to detect investment patterns  
+- Deploys an interactive Streamlit dashboard for exploration  
 
 ### This system can be used by:
-- 🧑‍💼 Business Consultants
-- 📊 Investment Analysts
-- 🏦 Institutional Research Teams
-- 📈 Portfolio Strategists
-- 🧠 Financial Data Scientists
 
-## ▶️ How to Run
+- 🏦 Investment analysts for capital flow analysis  
+- 📊 Business consultants for competitive benchmarking  
+- 💼 Institutional investors for sector rotation insights  
+- 📈 Financial researchers for structural market studies  
+- 🧠 AI practitioners exploring temporal graph modeling  
 
-1. Clone the repository
-<code>
-git clone https://github.com/your-repo/temporal-gnn-sec.git
-cd temporal-gnn-sec
-</code>
+---
 
-2. Install dependencies
-<code>
-pip install -r requirements.txt
-</code>
+## 🏗️ Technical Architecture
 
-3. Download SEC filings & financial data
-<code>
-python data_pipeline/download_sec_data.py
-python data_pipeline/fetch_yfinance_data.py
-</code>
+### Data Sources
+- SEC EDGAR (13F institutional filings)  
+- Yahoo Finance (S&P 500 historical data)  
 
-4. Build the temporal graph
-<code>
-python graph/build_temporal_graph.py
-</code>
+### Graph Construction
+- **Nodes:** Companies, Funds, Sectors, Industries  
+- **Static Edges:** Company → Sector / Industry  
+- **Dynamic Edges:** Fund → Company (quarterly holdings)  
 
-5. Train the GNN model
-<code>
-python gnn/train_gatv2.py
-</code>
+### Modeling
+- Graph Attention Networks (GAT / GATv2)  
+- Dropout (p=0.2) + Weight Decay regularization  
+- Grid search over:
+  - Learning rate
+  - Hidden channels
+  - Attention heads
+  - Number of layers
+- Evaluation using silhouette score on embeddings  
 
-6. Launch visualization
-<code>
-python app/visualize_graph.py
-</code>
+Validation improvements:
+- Silhouette score improved from 0.18 → 0.27  
+- Reduced overfitting via dropout  
+- Improved stability across temporal windows  
 
-## 🖥️ Output
-![Graph Visualization](docs/graph_demo.gif)
+---
 
-Animated graph showing how institutional investments shift across companies and sectors over time. Clusters reveal hidden relationships driven by capital flow rather than direct competition.
+## ▶️ How to Run (Streamlit App)
 
-## 🧰 Tech Stack
+1️⃣ Clone the repository  
+<code>git clone https://github.com/dhruvin18/Institutional_Investment_Graph_Analysis.git</code>
 
-**Data & ML**
-- PyTorch Geometric (GAT, GATv2)
-- scikit-learn (KMeans, silhouette score)
-- NetworkX
+2️⃣ Navigate to project directory  
+<code>cd Institutional_Investment_Graph_Analysis</code>
 
-**Streaming/Backend**
-- SEC EDGAR Downloader
-- yFinance
-- Pandas
+3️⃣ Install dependencies  
+<code>pip install -r requirements.txt</code>
 
-**Visualization**
-- Matplotlib / Plotly
-- Animated Network Graph
+4️⃣ Launch the Streamlit application  
+<code>streamlit run app.py</code>
 
-**Language**
-- Python
+5️⃣ Open the browser  
+Streamlit will automatically open at:  
+<code>http://localhost:8501</code>
+
+---
+
+## 🛠️ Tech Stack
+
+- Python  
+- Streamlit  
+- PyTorch Geometric  
+- NetworkX  
+- Pandas  
+- SEC EDGAR Downloader  
+- Yahoo Finance API  
+- Scikit-learn
